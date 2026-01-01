@@ -3,7 +3,7 @@ README
 
 ## Course Information
 
-BIO708 Biostatistics
+BIO709 Biostatistics
 
 Instructor - Akira Terui
 
